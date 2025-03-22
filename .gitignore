@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Ignore arquivos temporários do Spotlight e lixeira
+.Spotlight-V100
+.Trashes
